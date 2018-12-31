@@ -46,7 +46,7 @@ var arraySum = function(array) {
   return sum;
 };
 
-// 4. Check if a number is even.
+// 4. Check if a number is even.  // Random comment
 var isEven = function(n) {
 };
 
